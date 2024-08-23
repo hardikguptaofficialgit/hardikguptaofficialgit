@@ -1,4 +1,4 @@
-
+<center>
 <br clear="both">
 
 <center>
@@ -52,11 +52,13 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
+</center>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hardikguptaofficialgit/hardikguptaofficialgit/output/snake.svg" alt="Snake animation" />
+<img
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThudXpwN2tnbmdwZzhra3BlcWx0eWh4NzNlbHh1dGpobm41Y2luayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Code%Animate" />
 
 ###
