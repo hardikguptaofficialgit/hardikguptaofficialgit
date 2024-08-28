@@ -1,4 +1,5 @@
-# 💫 About Me:
+<center>
+  # 💫 About Me:
 I'm currently working on HTML , CSS ,JAVASCRIPT 
 
 
@@ -25,3 +26,4 @@ I'm currently working on HTML , CSS ,JAVASCRIPT
 [![](https://visitcount.itsvg.in/api?id=hardikguptaofficialgit&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</center>
