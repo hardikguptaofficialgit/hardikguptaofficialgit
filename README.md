@@ -1,9 +1,7 @@
 <center>
 <br clear="both">
 
-<center>
-        <img src="https://nuvibrainz.site/AssetsRandomiz/gitpersonareadme.gif" alt="Autoplay GIF">
-    </center>
+
 <h3 align="left">Hello👋!I’m Hardik Gupta, owner of NuviBrainz and a Computer Science student specializing in AI/ML. From Jaipur, I’m a web developer passionate about coding and singing.</h2>
 
 ###
