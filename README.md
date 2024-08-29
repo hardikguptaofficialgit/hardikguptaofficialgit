@@ -1,5 +1,4 @@
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hardik%20Gupta%20😃&text2=💖%20An%20Entrepreneur%20,A%20Passionate%20Coder%20and%20Learner&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hardik%20Gupta%20😃&text2=🧑🏻‍💼%20%20Entrepreneur%20,%20👩🏻‍💻%20%20Passionate%20Coder%20,%20📖%20%20Learner&width=900&height=400)
 
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
