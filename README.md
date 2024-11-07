@@ -26,7 +26,7 @@ I'm a first-year Computer Science and Engineering student at Kalinga Institute o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hardikguptaofficialgit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-# GSSOC(24) B 
+# GSSOC(24) Badges
 
 <img src="https://i.ibb.co/x6chRc0/Postman-Postman-API-Fundamentals-Student-Expert-2024-11-07.png" width="100px" height="100px" />
 
