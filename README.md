@@ -1,12 +1,9 @@
 <!-- =========================================================
-     FINAL FIXED DARK MODE GITHUB README
-     Guaranteed visibility | No white-on-white issues
-     All stats working | Stable providers only
+     FINAL UPDATED DARK MODE GITHUB PROFILE README
+     Rounded stats cards | Reliable live stats | No white-on-white
      ========================================================= -->
 
-<!-- =======================
-     DARK ANIMATED COVER
-     ======================= -->
+<!-- COVER BANNER -->
 <p align="center">
   <img
     src="https://svg-banners.vercel.app/api?type=glitch&text1=Hardik%20Gupta&text2=Founder%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML&width=1000&height=420&theme=dark&fontSize=46"
@@ -14,9 +11,7 @@
   />
 </p>
 
-<!-- =======================
-     PROFILE VIEWS
-     ======================= -->
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=hardikguptaofficialgit&label=PROFILE%20VIEWS&color=0d1117&style=flat-square"
@@ -26,11 +21,10 @@
 
 <hr style="border: 1px solid #30363d;" />
 
-## About Me
+## About
 
 Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at **Kalinga Institute of Industrial Technology**.  
-Builder-focused. Strong inclination toward system design, full-stack engineering, and applied AI.  
-Experience building real products used by users.  
+Builder-oriented with hands-on experience in real products.  
 Location: Jaipur, India.
 
 <hr style="border: 1px solid #30363d;" />
@@ -71,53 +65,53 @@ Location: Jaipur, India.
 
 <hr style="border: 1px solid #30363d;" />
 
-## GitHub Statistics
-
-<!-- STREAK STATS (STABLE) -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hardikguptaofficialgit&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+## GitHub Stats
 
 <!-- MAIN STATS -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hardikguptaofficialgit&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <a href="https://github.com/hardikguptaofficialgit">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=hardikguptaofficialgit&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"
+      alt="GitHub Stats"
+    />
+  </a>
 </p>
 
 <!-- TOP LANGUAGES -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikguptaofficialgit&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+  <a href="https://github.com/hardikguptaofficialgit">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikguptaofficialgit&layout=compact&theme=github_dark&hide_border=true&border_radius=15"
+      alt="Top Languages"
+    />
+  </a>
+</p> 1
 
 <hr style="border: 1px solid #30363d;" />
 
-## Developer Quote
+## Contribution Streak
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Developer Quote"
-  />
-</p>
+  <a href="https://github.com/hardikguptaofficialgit">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=hardikguptaofficialgit&theme=dark&border_radius=15"
+      alt="GitHub Streak"
+    />
+  </a>
+</p> 2
 
 <hr style="border: 1px solid #30363d;" />
 
 ## GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=hardikguptaofficialgit&theme=darkhub&no-frame=true&margin-w=12"
-    alt="GitHub Trophies"
-  />
-</p>
+  <a href="https://github.com/hardikguptaofficialgit">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=hardikguptaofficialgit&theme=onedark&no-frame=true&margin-w=10&border_radius=15"
+      alt="GitHub Trophy"
+    />
+  </a>
+</p> 3
 
 <hr style="border: 1px solid #30363d;" />
 
@@ -133,16 +127,18 @@ Location: Jaipur, India.
 
 <hr style="border: 1px solid #30363d;" />
 
-## Top Contributed Repositories
+## Top Contributions
 
 <p align="center">
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=hardikguptaofficialgit&limit=5&theme=github-dark&combine_all_yearly_contributions=true"
-    alt="Top Contributions"
+    src="https://github-contributor-stats.vercel.app/api?username=hardikguptaofficialgit&limit=5&theme=github-dark&combine_all_yearly_contributions=true&border_radius=15"
+    alt="Top Contributed Repo"
   />
 </p>
 
 <hr style="border: 1px solid #30363d;" />
+
+## Visitor Count
 
 <p align="center">
   <img
