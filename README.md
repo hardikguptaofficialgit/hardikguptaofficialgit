@@ -1,37 +1,156 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hardik%20Gupta%20😃&text2=🧑🏻‍💼%20%20Entrepreneur%20,%20🧑🏻‍💻%20%20Passionate%20Coder%20,%20📖%20%20Learner&width=900&height=400)
+# HARDIK GUPTA
 
+Full-Stack Software Developer | AI/ML Engineer  
+Jaipur, Rajasthan, India  
 
-<img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
-
-
-  # 👦🏻About Me:
-I'm a first-year Computer Science and Engineering student at Kalinga Institute of Industrial Technology, focusing on Artificial Intelligence and Machine Learning. I'm from Jaipur and have a deep passion for both singing and coding. With a strong academic background, I am eager to excel in my field.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://camo.githubusercontent.com/939b5363e8c2433951d755f76895c3f7ab47699a28857f8f04fc7886d988a0c5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d446973636f7264266c6f676f3d646973636f7264266c6162656c3d26636f6c6f723d373238394441266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hardikguptaofficial63/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hardik-gupta-b528072b3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@hardikgupta8792) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Hardik-Gupta-the-typescripter) 
-# 💻 Tech Stack:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hardikguptaofficialgit&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikguptaofficialgit&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hardikguptaofficialgit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-# GSSOC(24) Badges
-
-<img src="https://i.ibb.co/x6chRc0/Postman-Postman-API-Fundamentals-Student-Expert-2024-11-07.png" width="100px" height="100px" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hardikguptaofficialgit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Email: hardikgupta8792@gmail.com  
+Portfolio: [Add Link]  
+GitHub: https://github.com/hardikguptaofficialgit  
+LinkedIn: https://linkedin.com/in/hardik-gupta-b528072b3  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hardikguptaofficialgit&icon=8&color=0)](https://visitcount.itsvg.in)
+
+## PROFILE
+
+Full-stack software developer and computer science student specializing in AI/ML. Strong experience building scalable web applications, real-time systems, and AI-powered platforms. Proven ability to deliver production-grade systems from ideation to deployment with a focus on performance, system design, and clean architecture. :contentReference[oaicite:0]{index=0}
+
+---
+
+## TECH STACK
+
+**Languages**  
+TypeScript, JavaScript (ES6+), C, C++, PHP  
+
+**Frontend**  
+React.js, Next.js, Tailwind CSS, Radix UI, Framer Motion, GSAP, HTML5, CSS3  
+
+**Backend**  
+Node.js, Express.js, REST APIs, WebSockets, Socket.io, Redis  
+
+**AI / ML**  
+LLM Integrations (OpenAI, Anthropic), TensorFlow, MediaPipe, Prompt Engineering  
+
+**Databases & Storage**  
+Firebase, Firestore, Cloudinary  
+
+**Tools & Platforms**  
+Git, GitHub, Docker, Vercel, Render, PostHog, CI/CD, PWAs, Service Workers  
+
+**Core Concepts**  
+Data Structures and Algorithms, System Design, OOP, DBMS, Operating Systems  
+
+---
+
+## EXPERIENCE
+
+### Frontend Developer Intern  
+NextRound Private Limited | Remote  
+Jun 2025 – Aug 2025  
+
+- Built a Chrome extension for cross-platform meeting transcription supporting Zoom, Google Meet, and Teams  
+- Improved real-time speaker attribution accuracy  
+- Delivered 10+ production features used by thousands of users  
+- Integrated REST APIs and optimized data flow for reduced latency  
+- Participated in agile workflows, code reviews, and sprint planning  
+
+---
+
+### Web Developer  
+GeeksforGeeks KIIT Chapter | Part-Time  
+Feb 2025 – Present  
+
+- Developed and maintained a technical community platform for students  
+- Improved UI/UX and implemented new feature modules  
+- Increased platform usability and engagement  
+
+---
+
+### Senior Technical Executive  
+Frontend Engineering Division (FED), KIIT | Part-Time  
+Nov 2024 – Present  
+
+- Built frontend and backend systems for internal tools  
+- Automated workflows for event and club management  
+- Reduced manual operational overhead significantly  
+
+---
+
+## PROJECTS
+
+### Linkit – Digital Profile SaaS Platform  
+- Built a full-stack platform used by 200+ businesses and creators  
+- Implemented analytics dashboards and AI chatbot integrations  
+- Reduced onboarding time by 60% through automation  
+- Integrated ordering workflows and payment systems  
+
+---
+
+### NuviBrainz – AI Learning Platform  
+- Developed an AI-powered JEE preparation system  
+- Implemented adaptive learning, quizzes, and analytics  
+- Integrated multi-model LLM architecture  
+- Built scalable frontend and backend systems  
+
+---
+
+### C25Go – Campus Navigation System  
+- Developed a mobile-first PWA with offline support  
+- Implemented shortest-path routing using Dijkstra’s Algorithm  
+- Supported multi-floor navigation and interactive maps  
+- Used by 15,000+ students  
+
+---
+
+### Pigglu Khelega – Real-Time Multiplayer Game  
+- Built a Pictionary-style multiplayer game  
+- Used Socket.io and Redis for real-time synchronization  
+- Achieved sub-100ms latency for game state updates  
+
+---
+
+### OpenSource Hire – Developer Discovery Platform  
+- Built a GitHub-based talent discovery engine  
+- Ranked developers based on commits, repositories, and activity  
+- Enabled data-driven hiring without traditional job boards  
+
+---
+
+### AstroNuvi – AI Consultation Platform  
+- Built AI-driven astrology recommendation system  
+- Integrated scheduling and LLM-based insights  
+
+---
+
+### KIIT Clubs Platform  
+- Platform used by 1,000+ students  
+- Managed registrations for 30+ clubs  
+- Improved event discovery and engagement  
+
+---
+
+## ACHIEVEMENTS
+
+- YC Hackathon: Selected among top global participants  
+- GDG Hackathon: Winner  
+- Growth Hackathon (Bangalore): Participated in product-focused competition  
+
+---
+
+## EDUCATION
+
+Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar  
+B.Tech in Computer Science (AI & ML)  
+Expected Graduation: May 2028  
+
+Relevant Coursework:  
+Data Structures, Operating Systems, DBMS, OOP, Artificial Intelligence, Machine Learning  
+
+---
+
+## DESIGN NOTES
+
+- Monochrome layout (black / white / grayscale)  
+- Minimal typography (Inter, Geist, or Satoshi recommended)  
+- Section spacing with strong hierarchy  
+- No gradients, no visual noise  
+- Use thin separators and grid alignment for structure  
