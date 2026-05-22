@@ -1,11 +1,9 @@
-<!-- HERO -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=240&section=header&text=Hardik%20Gupta&fontColor=ffffff&fontSize=56&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;AI+Systems+Developer;Real+Time+Systems+Builder;Scalable+Architecture+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=24&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Systems+Developer;Real+Time+Systems+Builder;Scalable+Architecture+Focused" />
 </p>
 
 <p align="center">
@@ -26,7 +24,7 @@
 ---
 
 # Hardik Gupta
-Full Stack Engineer | AI Systems Developer  
+Software Engineer
 
 Jaipur, Rajasthan, India  
 hardikgupta8792@gmail.com  
@@ -35,7 +33,7 @@ hardikgupta8792@gmail.com
 
 ## Profile
 
-Full stack engineer building scalable applications, real time systems, and AI driven platforms. Strong focus on performance, system architecture, and production deployment.
+Software engineer building scalable applications, real time systems, and AI driven platforms. Strong focus on performance, system architecture, and production deployment.
 
 ---
 
@@ -82,7 +80,7 @@ Nov 2024 to Present
 ## Projects
 
 ### Linkit
-Full stack SaaS platform with analytics, AI chatbot, and business workflows  
+Software SaaS platform with analytics, AI chatbot, and business workflows  
 
 ### NuviBrainz
 AI learning system with adaptive paths and LLM integrations  
@@ -167,5 +165,3 @@ Expected 2028
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hardikguptaofficialgit&color=000000&style=for-the-badge" />
 </p>
-
----
